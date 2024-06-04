@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eb7d9811-08e6-40dd-a85a-c823cf401994" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2ggqUELzoWmHCH3iEsx0xPLeMB4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Major-Project/mern-classroom/client/assets/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;npm.development.executor&quot;: &quot;Run&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Major-Project\mern-classroom\client\assets\images" />
+      <recent name="C:\Project2\mern-classroom\client\components" />
+      <recent name="C:\Project2\mern-classroom\client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Major-Project\virtual-classroom\client\components" />
+      <recent name="C:\Major-Project\virtual-classroom\client" />
+      <recent name="C:\Project2\mern-classroom\client\components" />
+      <recent name="C:\Project2\mern-classroom\client\components\videoChat" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="development" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="development" />
+      </scripts>
+      <node-interpreter value="project" />
+      <package-manager value="npm" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.development" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17011.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb7d9811-08e6-40dd-a85a-c823cf401994" name="Changes" comment="" />
+      <created>1716129586573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716129586573</updated>
+      <workItem from="1716129591305" duration="2731000" />
+      <workItem from="1716145601896" duration="1172000" />
+      <workItem from="1716147900677" duration="1091000" />
+      <workItem from="1716476365905" duration="1347000" />
+      <workItem from="1716736389556" duration="1512000" />
+      <workItem from="1716795347362" duration="2466000" />
+      <workItem from="1716819921175" duration="1652000" />
+      <workItem from="1716880098690" duration="6365000" />
+      <workItem from="1716918755707" duration="1910000" />
+      <workItem from="1716920888014" duration="1357000" />
+      <workItem from="1716960157962" duration="3508000" />
+      <workItem from="1717050582344" duration="2102000" />
+      <workItem from="1717134389551" duration="6276000" />
+      <workItem from="1717143938676" duration="596000" />
+      <workItem from="1717221870955" duration="1739000" />
+      <workItem from="1717245666138" duration="1228000" />
+      <workItem from="1717342514939" duration="2576000" />
+      <workItem from="1717356535664" duration="3005000" />
+      <workItem from="1717420612856" duration="3512000" />
+      <workItem from="1717434551552" duration="4342000" />
+      <workItem from="1717477509765" duration="630000" />
+      <workItem from="1717502523321" duration="273000" />
+      <workItem from="1717502842543" duration="7961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
